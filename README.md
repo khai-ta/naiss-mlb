@@ -1,0 +1,26 @@
+# NAiSS MLB Projects
+
+This repository contains various machine learning and data science projects implemented in Google Collab
+
+## Projects
+
+### Classification
+- MNIST Digit Classification
+- Decision Tree Classifier
+- Logistic Regression (Iris Dataset)
+- Fine Tuning ResNet50 (Cats and Dogs Classification)
+- Pneumonia Classification
+- Titanic Survival Prediction (with Corrupted Data)
+
+### Reinforcement Learning
+- RL Project Template
+
+### RAG (Retrieval-Augmented Generation)
+- RAG Chatbot Template
+- RAG Model Document-Based Question Answering
+
+## Getting Started
+
+1. Clone this repository
+2. Install the required dependencies (to be added)
+3. Open the notebooks in Google Collab
