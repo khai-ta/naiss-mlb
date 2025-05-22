@@ -18,9 +18,3 @@ This repository contains various machine learning and data science projects impl
 ### RAG (Retrieval-Augmented Generation)
 - RAG Chatbot Template
 - RAG Model Document-Based Question Answering
-
-## Getting Started
-
-1. Clone this repository
-2. Install the required dependencies (to be added)
-3. Open the notebooks in Google Collab
