@@ -13,8 +13,8 @@ This repository contains various machine learning and data science projects impl
 - Titanic Survival Prediction (with Corrupted Data)
 
 ### Reinforcement Learning
-- RL Project Template
+- RL Project
 
 ### RAG (Retrieval-Augmented Generation)
-- RAG Chatbot Template
+- RAG Chatbot
 - RAG Model Document-Based Question Answering
